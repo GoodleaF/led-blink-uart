@@ -1,0 +1,22 @@
+# ignore All
+/*
+!.gitignore
+# exception .c .h .cydwr .cyprj
+!/Design01.cydsn
+/Design01.cydsn/*
+!/Design01.cydsn/*.c
+!/Design01.cydsn/*.h
+!/Design01.cydsn/*.cydwr
+!/Design01.cydsn/*.cyprj
+
+# exception .cysch
+!/Design01.cydsn/TopDesign
+/Design01.cydsn/TopDesign/*
+!/Design01.cydsn/TopDesign/*.cysch
+
+#exception .hex
+!/Design01.cydsn/CortexM0p
+/Design01.cydsn/CortexM0p/*
+!/Design01.cydsn/CortexM0p/ARM_GCC_541
+/Design01.cydsn/CortexM0p/ARM_GCC_541/Debug/*
+!/Design01.cydsn/CortexM0p/ARM_GCC_541/Debug/*.hex
