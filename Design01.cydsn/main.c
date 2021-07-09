@@ -30,7 +30,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -44,7 +44,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -58,7 +58,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -72,7 +72,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -86,7 +86,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -100,7 +100,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -114,7 +114,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -128,7 +128,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -142,7 +142,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         
         d++;
         }
@@ -157,7 +157,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -171,7 +171,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -185,7 +185,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -199,7 +199,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -213,7 +213,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -227,7 +227,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -241,7 +241,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         d++;
         }
         
@@ -255,7 +255,7 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
         
         d++;
         }
@@ -270,8 +270,8 @@ int main(void)
         UART_SpiUartWriteTxData(txdata[1]);
         UART_SpiUartWriteTxData(txdata[2]);
         UART_SpiUartWriteTxData(txdata[3]);
-        UART_SpiUartWriteTxData(txdata[0]^txdata[1]^txdata[2]^txdata[3]);
-        d++;
+        UART_SpiUartWriteTxData(txdata[1]^txdata[2]^txdata[3]);
+        d=0;
         }
     }
 }
